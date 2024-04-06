@@ -1,0 +1,2 @@
+版本1 自己实现了信号量，任务返回的result类
+版本2 使用了future和packaged_task实现任务的返回值
